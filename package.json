@@ -76,7 +76,7 @@
     "ngx-lightbox": "^2.5.1",
     "ngx-malihu-scrollbar": "^9.0.0",
     "ngx-smart-modal": "7.4.1",
-    "ngx-summernote": "0.7.7",
+    "ngx-summernote": "0.8.8",
     "ngx-toastr": "^12.1.0",
     "normalize.css": "6.0.0",
     "npm": "^8.1.3",
